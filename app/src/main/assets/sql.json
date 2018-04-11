@@ -1,0 +1,24 @@
+{
+"links" : [
+	{"name":"Intro to SQL","pages":9, "filename":"32.pdf"},
+	{"name":"SQL Syntax","pages":9, "filename":"33.pdf"},
+	{"name":"SQL Select","pages":9, "filename":"34.pdf"},
+	{"name":"SQL Select Distinct","pages":9, "filename":"35.pdf"},
+	{"name":"SQL Where Clause","pages":12, "filename":"36.pdf"},
+	{"name":"SQL AND OR NOT","pages":9, "filename":"37.pdf"},
+	{"name":"SQL ORDER BY","pages":9, "filename":"38.pdf"},
+	{"name":"SQL INSERT INTO","pages":9, "filename":"39.pdf"},
+	{"name":"SQL Null values","pages":10, "filename":"40.pdf"},
+	{"name":"SQL Update","pages":9, "filename":"41.pdf"},
+	{"name":"SQL DELETE","pages":5, "filename":"42.pdf"},
+	{"name":"SQL SELECT TOP LIMIT","pages":19, "filename":"43.pdf"},
+	{"name":"SQL MIN MAX","pages":13, "filename":"44.pdf"},
+	{"name":"SQL COUNT AVG SUM","pages":12, "filename":"45.pdf"},
+	{"name":"SQL LIKE","pages":16, "filename":"46.pdf"},
+	{"name":"SQL Wildcard","pages":13, "filename":"47.pdf"},
+	{"name":"SQL IN","pages":14, "filename":"48.pdf"},
+	{"name":"SQL BETWEEN","pages":8, "filename":"49.pdf"},
+	{"name":"SQL Aliases","pages":9, "filename":"50.pdf"},
+	{"name":"SQL Joins","pages":9, "filename":"51.pdf"}
+]
+}
