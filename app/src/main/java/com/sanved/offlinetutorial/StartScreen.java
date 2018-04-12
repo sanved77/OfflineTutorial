@@ -40,7 +40,7 @@ public class StartScreen extends AppCompatActivity implements View.OnClickListen
                 break;
 
             case R.id.cvJs:
-                intent.putExtra("series", "3");
+                intent.putExtra("type", "js.json");
                 break;
         }
 

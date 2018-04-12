@@ -148,9 +148,7 @@
                 android:layout_centerHorizontal="true"
                 android:layout_marginLeft="8dp"
                 android:layout_marginRight="20dp"
-                android:src="@drawable/js"
-
-                />
+                android:src="@drawable/js"/>
 
             <TextView
                 android:id="@+id/tvTeam2"
